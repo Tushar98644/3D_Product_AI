@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/rules-of-hooks */
 // hooks/useSSRSafeSnapshot.ts
-'use client';
+// 'use client';
 import { useSnapshot } from "valtio";
 import { useEffect, useState } from "react";
 
